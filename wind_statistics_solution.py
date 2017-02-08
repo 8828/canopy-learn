@@ -139,3 +139,4 @@ print "Bonus 1."
 print "  mean:", monthly_means
 print
 
+
